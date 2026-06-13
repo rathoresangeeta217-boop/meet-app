@@ -1,0 +1,6 @@
+{
+  "name": "SRK MEET",
+  "description": "Schedule your meeting with SRK.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
